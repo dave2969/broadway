@@ -1,0 +1,43 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.heading {
+  background-image: url("file:///C:/Users/DavidRiley/OneDrive/Projects/broadway/resources/images/the-flatiron-building.png");
+}
+
+.heading h1 {
+  color:white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.heading ul {
+  list-style-type: none;
+}
+
+.heading a {
+  color: white;
+  font-size: 18px;
+}
+
+.topsection h2 {
+  font-size:32px;
+}
+
+h3 {
+  font-size:23px;
+  font-weight: bold;
+}
+
+.bottomsection h2 {
+  background-image: url("file:///C:/Users/DavidRiley/OneDrive/Projects/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
